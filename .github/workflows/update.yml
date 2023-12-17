@@ -61,8 +61,8 @@ jobs:
 
       - name: Commit and push if it changed
         run: |-
-          git config user.name "Major Hayden"
-          git config user.email "major@mhtx.net"
+          git config user.name "Ponick Khan"
+          git config user.email "ponickid@gmail.com"
           git add output
           timestamp=$(date -u)
           git commit -m "Updating models list: ${timestamp}" || exit 0
@@ -148,8 +148,8 @@ jobs:
 
       - name: Commit and push if it changed
         run: |-
-          git config user.name "Major Hayden"
-          git config user.email "major@mhtx.net"
+          git config user.name "Ponick Khan"
+          git config user.email "ponickid@gmail.com"
           git add output
           timestamp=$(date -u)
           git commit -m "Updating vehicle data: ${timestamp}" || exit 0
