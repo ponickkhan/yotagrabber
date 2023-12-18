@@ -10,6 +10,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Port to dealer,True,,JTDACACU0R3012113,San Francisco Toyota,CA
 2024,XSE FWD,Midnight Black Metallic,35925,0.0,35925.0,At dealer,False,DealerHold,JTDACACU0R3012127,Toyota of Bowie,MD
 2024,XSE Premium FWD,Cutting Edge,39370,0.0,39370.0,At dealer,False,,JTDACACU0R3012144,AutoNation Toyota Arapahoe,CO
+2024,SE FWD,Midnight Black Metallic,32675,0.0,32675.0,At dealer,False,,JTDACACU0R3012161,Capitol Toyota,CA
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU0R3012239,Toyota of Manhattan,NY
 2024,SE FWD,Wind Chill Pearl,32675,0.0,32675.0,At dealer,True,DealerHold,JTDACACU0R3012273,Principle Toyota,TN
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,At dealer,False,Available,JTDACACU0R3012287,New Rochelle Toyota,NY
@@ -30,7 +31,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU0R3013181,Harr Toyota,MA
 2024,XSE Premium FWD,Guardian Gray,39370,0.0,39370.0,Port to dealer,False,Available,JTDACACU0R3013309,A-1 Toyota,CT
 2024,XSE FWD,Cutting Edge,35925,0.0,35925.0,Factory to port,False,DealerHold,JTDACACU0R3013343,Atlantic Toyota,NY
-2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,At dealer,False,DealerHold,JTDACACU0R3013391,City Toyota,CA
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU0R3013410,Advantage Toyota,NY
 2024,XSE FWD,Reservoir Blue,35925,0.0,35925.0,Port to dealer,False,,JTDACACU0R3013424,New Country Toyota of Westport,CT
 2024,XSE FWD,Midnight Black Metallic,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU0R3013438,K.C. Summers Toyota,IL
@@ -46,7 +46,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE FWD,Midnight Black Metallic,35925,0.0,35925.0,Port to dealer,False,,JTDACACU0R3013763,Mountain States Toyota,CO
 2024,XSE FWD,Reservoir Blue,35925,0.0,35925.0,Factory to port,False,DealerHold,JTDACACU0R3013813,Jaffarian Toyota,MA
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Port to dealer,True,DealerHold,JTDACACU0R3013827,I-10 Toyota,CA
-2024,XSE FWD,Guardian Gray,35925,3974.0,39899.0,At dealer,False,,JTDACACU0R3013858,Claremont Toyota,CA
 2024,XSE FWD,Midnight Black Metallic,35925,0.0,35925.0,Factory to port,True,DealerHold,JTDACACU0R3013875,Parkway Toyota,NJ
 2024,XSE FWD,Reservoir Blue,35925,0.0,35925.0,Factory to port,False,,JTDACACU0R3013889,DARCARS Toyota,MD
 2024,XSE FWD,Guardian Gray,35925,3117.0,39042.0,Port to dealer,False,DealerHold,JTDACACU0R3013942,Norm Reeves Toyota San Diego,CA
@@ -73,7 +72,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Factory to port,True,DealerHold,JTDACACU0R3014721,Freeman Toyota,CA
 2024,XSE Premium FWD,Guardian Gray,39370,0.0,39370.0,Port to dealer,False,DealerHold,JTDACACU0R3014749,Grants Pass Toyota,OR
 2024,XSE FWD,Supersonic Red,35925,0.0,35925.0,Factory to port,False,DealerHold,JTDACACU0R3014833,Interstate Toyota,NY
-2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Port to dealer,False,Available,JTDACACU0R3014900,Mid City Toyota,CA
+2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU0R3014900,Mid City Toyota,CA
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Factory to port,False,,JTDACACU0R3014914,Advantage Toyota,NY
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Factory to port,False,DealerHold,JTDACACU0R3014928,Bernardi Toyota,MA
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Factory to port,False,,JTDACACU0R3015061,Toyota of Corvallis,OR
@@ -120,8 +119,9 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,SE FWD,Guardian Gray,32675,0.0,32675.0,Factory to port,True,DealerHold,JTDACACU0R3016551,Modesto Toyota,CA
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Factory to port,False,,JTDACACU0R3016579,Keyes Toyota,CA
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Factory to port,False,,JTDACACU0R3016582,Team Toyota of Princeton,NJ
-2024,XSE Premium FWD,Guardian Gray,39370,2626.0,41996.0,Factory to port,False,,JTDACACU1R150BK16,AutoNation Toyota Arapahoe,CO
-2024,XSE Premium FWD,Midnight Black Metallic,39370,0.0,39370.0,Factory to port,False,DealerHold,JTDACACU1R150CB70,Toyota of Dartmouth,MA
+2024,XSE Premium FWD,Guardian Gray,39370,0.0,39370.0,Factory to port,False,,JTDACACU0R3016601,McGee Toyota of Dudley,MA
+2024,XSE Premium FWD,Guardian Gray,39370,0.0,39370.0,Factory to port,False,,JTDACACU0R3016629,Empire Toyota,NY
+2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Factory to port,False,,JTDACACU0R3016632,Columbia Gorge Toyota,OR
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,At dealer,False,DealerHold,JTDACACU1R3011794,New Country Toyota of Clifton Park,NY
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,At dealer,False,DealerHold,JTDACACU1R3011858,Imperial Toyota,MA
 2024,XSE FWD,Midnight Black Metallic,35925,0.0,35925.0,At dealer,False,Available,JTDACACU1R3012024,Toyota of Turnersville,NJ
@@ -135,7 +135,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,At dealer,False,DealerHold,JTDACACU1R3012380,Herb Chambers Toyota of Boston,MA
 2024,XSE FWD,Cutting Edge,35925,0.0,35925.0,At dealer,False,,JTDACACU1R3012413,Team Toyota of Princeton,NJ
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Port to dealer,False,,JTDACACU1R3012475,Fox Toyota,NY
-2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU1R3012587,Toyota of Nashua,NH
+2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,At dealer,False,DealerHold,JTDACACU1R3012587,Toyota of Nashua,NH
 2024,XSE FWD,Wind Chill Pearl,35925,3974.0,39899.0,At dealer,False,,JTDACACU1R3012623,Claremont Toyota,CA
 2024,SE FWD,Wind Chill Pearl,32675,0.0,32675.0,Port to dealer,False,DealerHold,JTDACACU1R3012685,Advantage Toyota,NY
 2024,XSE FWD,Guardian Gray,35925,3974.0,39899.0,At dealer,False,,JTDACACU1R3012735,Claremont Toyota,CA
@@ -250,6 +250,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE Premium FWD,Reservoir Blue,39370,0.0,39370.0,Factory to port,False,,JTDACACU1R3016526,Rick Collins Toyota,IA
 2024,XSE FWD,Reservoir Blue,35925,0.0,35925.0,Factory to port,False,DealerHold,JTDACACU1R3016557,White River Toyota,VT
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Factory to port,False,,JTDACACU1R3016560,New Country Toyota of Westport,CT
+2024,XSE Premium FWD,Midnight Black Metallic,39370,0.0,39370.0,Factory to port,True,DealerHold,JTDACACU1R3016624,Capistrano Valley Toyota,CA
 2023,XSE FWD,Midnight Black Metallic,35600,0.0,35600.0,At dealer,False,DealerHold,JTDACACU2P3006438,Lee Toyota,ME
 2024,XSE FWD,Wind Chill Pearl,35925,1290.0,37215.0,Factory to port,False,,JTDACACU2R150AE58,Toyota of Redlands,CA
 2024,XSE Premium FWD,Guardian Gray,39370,0.0,39370.0,Factory to port,True,,JTDACACU2R150AU29,Hanlees Fairfield Toyota,CA
@@ -261,7 +262,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,At dealer,True,,JTDACACU2R3012131,Hartford Toyota,CT
 2024,XSE Premium FWD,Wind Chill Pearl,39370,1098.0,40468.0,Factory to port,True,DealerHold,JTDACACU2R3012145,Toyota of Cedar Park,TX
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,At dealer,False,Available,JTDACACU2R3012193,Butler Toyota,GA
-2024,XSE FWD,Cutting Edge,35925,0.0,35925.0,At dealer,True,DealerHold,JTDACACU2R3012257,One Toyota of Oakland,CA
 2024,XSE Premium FWD,Guardian Gray,39370,0.0,39370.0,At dealer,False,Available,JTDACACU2R3012260,"Pedersen Toyota, Ltd.",CO
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,At dealer,False,,JTDACACU2R3012307,Lia Toyota of Colonie,NY
 2024,XSE FWD,Reservoir Blue,35925,0.0,35925.0,At dealer,True,DealerHold,JTDACACU2R3012324,Charlie's Toyota,ME
@@ -377,6 +377,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Factory to port,False,DealerHold,JTDACACU2R3016468,Steet Toyota,NY
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Factory to port,False,,JTDACACU2R3016504,Fox Toyota,NY
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Factory to port,False,,JTDACACU2R3016521,DCH Brunswick Toyota,NJ
+2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Factory to port,False,,JTDACACU2R3016633,Hanlees Hilltop Toyota,CA
 2024,XSE Premium FWD,Guardian Gray,39370,0.0,39370.0,Factory to port,False,,JTDACACU3R150BU13,Hoffman Toyota,CT
 2024,XSE FWD,Midnight Black Metallic,35925,0.0,35925.0,Port to dealer,False,,JTDACACU3R3009738,Toyota of Hollywood,CA
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,At dealer,False,DealerHold,JTDACACU3R3011862,Romeo Toyota of Glens Falls,NY
@@ -419,7 +420,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE Premium FWD,Guardian Gray,39370,0.0,39370.0,At dealer,False,DealerHold,JTDACACU3R3013742,Freeway Toyota of Hanford,CA
 2024,XSE FWD,Midnight Black Metallic,35925,0.0,35925.0,Port to dealer,False,,JTDACACU3R3013790,AutoNation Toyota Arapahoe,CO
 2024,XSE Premium FWD,Midnight Black Metallic,39370,0.0,39370.0,Factory to port,False,DealerHold,JTDACACU3R3013840,Toyota of Morristown,NJ
-2024,XSE Premium FWD,Guardian Gray,39370,3990.0,43360.0,At dealer,False,Available,JTDACACU3R3013854,Toyota Carlsbad,CA
+2024,XSE Premium FWD,Guardian Gray,39370,3990.0,43360.0,At dealer,False,DealerHold,JTDACACU3R3013854,Toyota Carlsbad,CA
 2024,XSE FWD,Midnight Black Metallic,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU3R3014034,Ron Tonkin Toyota,OR
 2024,XSE FWD,Midnight Black Metallic,35925,0.0,35925.0,Factory to port,True,Available,JTDACACU3R3014051,One Toyota of Oakland,CA
 2024,XSE FWD,Cutting Edge,35925,0.0,35925.0,Factory to port,False,Available,JTDACACU3R3014065,Curry Toyota,NY
@@ -430,7 +431,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Factory to port,False,,JTDACACU3R3014230,Toyota Universe,NJ
 2024,XSE FWD,Guardian Gray,35925,4966.0,40891.0,Factory to port,False,,JTDACACU3R3014258,Toyota of Turnersville,NJ
 2024,XSE Premium FWD,Supersonic Red,39370,0.0,39370.0,Port to dealer,False,DealerHold,JTDACACU3R3014342,Fort Wayne Toyota,IN
-2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,At dealer,True,,JTDACACU3R3014356,San Francisco Toyota,CA
 2024,XSE Premium FWD,Cutting Edge,39370,0.0,39370.0,Factory to port,False,Available,JTDACACU3R3014387,Fordham Toyota,NY
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU3R3014390,Manhattan Beach Toyota,CA
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Factory to port,True,DealerHold,JTDACACU3R3014471,Fitzgerald Toyota Gaithersburg,MD
@@ -497,6 +497,8 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Factory to port,False,DealerHold,JTDACACU3R3016432,Manhattan Beach Toyota,CA
 2024,SE FWD,Midnight Black Metallic,32675,0.0,32675.0,Factory to port,False,Available,JTDACACU3R3016527,Summit Toyota of Akron,OH
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Factory to port,False,Available,JTDACACU3R3016575,Mungenast Alton Toyota,IL
+2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Factory to port,False,,JTDACACU3R3016592,"Bristol Toyota, Inc.",MA
+2024,XSE Premium FWD,Guardian Gray,39370,2626.0,41996.0,Factory to port,False,,JTDACACU3R3016611,AutoNation Toyota Arapahoe,CO
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Factory to port,False,DealerHold,JTDACACU4R150BK12,Groove Toyota,CO
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Factory to port,False,Available,JTDACACU4R151CQ42,Coad Toyota,MO
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,At dealer,True,DealerHold,JTDACACU4R3011918,Tufankjian Toyota of Braintree,MA
@@ -508,7 +510,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,SE FWD,Cutting Edge,32675,0.0,32675.0,At dealer,False,DealerHold,JTDACACU4R3012258,Grieco Toyota,RI
 2024,XSE FWD,Reservoir Blue,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU4R3012339,Colonial Toyota,CT
 2024,XSE FWD,Midnight Black Metallic,35925,0.0,35925.0,At dealer,True,DealerHold,JTDACACU4R3012373,Ira Toyota,MA
-2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU4R3012406,"Bristol Toyota, Inc.",MA
+2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,At dealer,False,DealerHold,JTDACACU4R3012406,"Bristol Toyota, Inc.",MA
 2024,XSE FWD,Cutting Edge,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU4R3012454,Toyota of Greenwich,CT
 2024,XSE FWD,Wind Chill Pearl,35925,599.0,36524.0,At dealer,False,Available,JTDACACU4R3012518,Hudson Toyota,NJ
 2024,XSE FWD,Cutting Edge,35925,0.0,35925.0,At dealer,False,,JTDACACU4R3012521,Bill Dube Toyota,NH
@@ -531,7 +533,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Port to dealer,False,DealerHold,JTDACACU4R3013409,Toyota of Anaheim,CA
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU4R3013488,Sheehy Toyota of Laurel,MD
 2024,XSE FWD,Midnight Black Metallic,35925,0.0,35925.0,At dealer,False,Available,JTDACACU4R3013491,Santa Margarita Toyota,CA
-2024,XSE Premium FWD,Cutting Edge,39370,1798.0,41168.0,At dealer,False,DealerHold,JTDACACU4R3013524,Toyota of Portland on Broadway,OR
+2024,XSE Premium FWD,Cutting Edge,39370,0.0,39370.0,At dealer,False,DealerHold,JTDACACU4R3013524,Toyota of Gladstone,OR
 2024,XSE Premium FWD,Wind Chill Pearl,39370,499.0,39869.0,Port to dealer,True,DealerHold,JTDACACU4R3013538,Toyota San Luis Obispo,CA
 2024,XSE FWD,Reservoir Blue,35925,0.0,35925.0,At dealer,False,Available,JTDACACU4R3013541,City Toyota,CA
 2024,SE FWD,Wind Chill Pearl,32675,0.0,32675.0,Factory to port,True,DealerHold,JTDACACU4R3013569,Kinderhook Toyota,NY
@@ -587,7 +589,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Factory to port,True,DealerHold,JTDACACU4R3015547,Fitzgerald Toyota Gaithersburg,MD
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Factory to port,False,,JTDACACU4R3015564,Curry Toyota,NY
 2024,XSE Premium FWD,Midnight Black Metallic,39370,0.0,39370.0,Factory to port,False,,JTDACACU4R3015628,Toyota of Clovis,CA
-2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Factory to port,False,,JTDACACU4R3015676,Culver City Toyota,CA
+2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Factory to port,True,,JTDACACU4R3015676,Culver City Toyota,CA
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Factory to port,False,,JTDACACU4R3015709,Concord Toyota,CA
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Factory to port,False,,JTDACACU4R3015757,Route 22 Toyota,NJ
 2024,SE FWD,Cutting Edge,32675,0.0,32675.0,Factory to port,False,,JTDACACU4R3015791,Hansel Toyota,CA
@@ -614,9 +616,9 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Factory to port,False,,JTDACACU4R3016441,One Toyota of Oakland,CA
 2024,XSE FWD,Wind Chill Pearl,35925,1798.0,37723.0,Factory to port,False,,JTDACACU4R3016519,Toyota of Portland on Broadway,OR
 2024,XSE FWD,Reservoir Blue,35925,0.0,35925.0,Factory to port,True,,JTDACACU4R3016584,San Francisco Toyota,CA
+2024,XSE FWD,Midnight Black Metallic,35925,0.0,35925.0,Factory to port,False,,JTDACACU4R3016598,Lithia Toyota of Springfield,OR
 2024,XSE FWD,Midnight Black Metallic,35925,1798.0,37723.0,Factory to port,False,,JTDACACU5R150BA68,Toyota of Portland on Broadway,OR
 2024,XSE FWD,Guardian Gray,35925,599.0,36524.0,Factory to port,False,,JTDACACU5R150BU00,Hudson Toyota,NJ
-2024,XSE Premium FWD,Guardian Gray,39370,0.0,39370.0,Factory to port,False,,JTDACACU5R150CB69,McGee Toyota of Dudley,MA
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,At dealer,False,DealerHold,JTDACACU5R3011829,Steet Toyota of Johnstown-Gloversville,NY
 2024,SE FWD,Wind Chill Pearl,32675,0.0,32675.0,Factory to port,False,DealerHold,JTDACACU5R3012012,Four Stars Toyota,OK
 2024,SE FWD,Guardian Gray,32675,0.0,32675.0,At dealer,True,Available,JTDACACU5R3012169,AutoNation Toyota Arapahoe,CO
@@ -650,7 +652,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,SE FWD,Wind Chill Pearl,32675,0.0,32675.0,Port to dealer,False,DealerHold,JTDACACU5R3013595,Lithia Toyota,OR
 2024,XSE FWD,Cutting Edge,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU5R3013631,Toyota of Downtown LA,CA
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Port to dealer,False,,JTDACACU5R3013645,Groove Toyota,CO
-2024,XSE FWD,Cutting Edge,35925,3974.0,39899.0,At dealer,False,,JTDACACU5R3013712,Claremont Toyota,CA
 2024,XSE FWD,Supersonic Red,35925,0.0,35925.0,Factory to port,False,Available,JTDACACU5R3013743,West Herr Toyota of Orchard Park,NY
 2024,XSE FWD,Supersonic Red,35925,0.0,35925.0,Factory to port,False,,JTDACACU5R3013838,"Bristol Toyota, Inc.",MA
 2024,XSE Premium FWD,Reservoir Blue,39370,0.0,39370.0,Port to dealer,False,DealerHold,JTDACACU5R3013841,Victory Toyota,MI
@@ -715,9 +716,9 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Factory to port,False,,JTDACACU5R3016447,Cabe Toyota Long Beach,CA
 2024,XSE Premium FWD,Cutting Edge,39370,0.0,39370.0,Factory to port,True,DealerHold,JTDACACU5R3016450,Voss Toyota,OH
 2024,XSE Premium FWD,Guardian Gray,39370,0.0,39370.0,Factory to port,False,,JTDACACU5R3016531,Manhattan Beach Toyota,CA
+2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Factory to port,False,DealerHold,JTDACACU5R3016643,Toyota of Downtown LA,CA
 2024,XSE Premium FWD,Wind Chill Pearl,39370,3974.0,43344.0,Factory to port,False,,JTDACACU6R150AE94,Claremont Toyota,CA
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Factory to port,False,,JTDACACU6R150BT73,Sunrise Toyota North,NY
-2024,XSE FWD,Midnight Black Metallic,35925,0.0,35925.0,Factory to port,False,,JTDACACU6R150CB64,Berlin City Toyota of Portland,ME
 2024,SE FWD,Wind Chill Pearl,32675,0.0,32675.0,Port to dealer,False,DealerHold,JTDACACU6R3011855,Seeger Toyota,MO
 2024,XSE FWD,Wind Chill Pearl,35925,1790.0,37715.0,Port to dealer,False,DealerHold,JTDACACU6R3011905,Shore Toyota,NJ
 2024,XSE FWD,Midnight Black Metallic,35925,0.0,35925.0,At dealer,False,Available,JTDACACU6R3012004,Keith Pierson Toyota,FL
@@ -759,7 +760,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,SE FWD,Guardian Gray,32675,1098.0,33773.0,Factory to port,True,DealerHold,JTDACACU6R3013587,Toyota of Cedar Park,TX
 2024,SE FWD,Guardian Gray,32675,0.0,32675.0,Port to dealer,True,DealerHold,JTDACACU6R3013590,DARCARS Toyota of Frederick,MD
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Factory to port,True,Available,JTDACACU6R3013606,One Toyota of Oakland,CA
-2024,XSE Premium FWD,Reservoir Blue,39370,0.0,39370.0,At dealer,True,DealerHold,JTDACACU6R3013637,Toyota of The Desert,CA
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Port to dealer,False,,JTDACACU6R3013685,Kinderhook Toyota,NY
 2024,XSE FWD,Cutting Edge,35925,0.0,35925.0,Factory to port,False,DealerHold,JTDACACU6R3013718,Toyota World of Clinton,NJ
 2024,SE FWD,Midnight Black Metallic,32675,4595.0,37270.0,Factory to port,False,DealerHold,JTDACACU6R3013752,Cowboy Toyota,TX
@@ -847,6 +847,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,SE FWD,Wind Chill Pearl,32675,0.0,32675.0,Factory to port,False,DealerHold,JTDACACU6R3016487,City Toyota,CA
 2024,XSE Premium FWD,Midnight Black Metallic,39370,0.0,39370.0,Factory to port,False,DealerHold,JTDACACU6R3016568,Romeo Toyota of Glens Falls,NY
 2024,XSE FWD,Midnight Black Metallic,35925,0.0,35925.0,Factory to port,False,,JTDACACU6R3016571,Maguire Toyota,NY
+2024,XSE Premium FWD,Midnight Black Metallic,39370,0.0,39370.0,Factory to port,False,DealerHold,JTDACACU6R3016649,Toyota of Dartmouth,MA
 2023,XSE FWD,Supersonic Red,35600,0.0,35600.0,At dealer,False,Available,JTDACACU7P3009724,K-M Toyota,MA
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Factory to port,False,,JTDACACU7R150BT82,Westchester Toyota,NY
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Factory to port,False,,JTDACACU7R150BU01,Hoffman Toyota,CT
@@ -864,6 +865,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE FWD,Cutting Edge,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU7R3012528,Empire Toyota of Huntington,NY
 2024,SE FWD,Midnight Black Metallic,32675,0.0,32675.0,At dealer,False,DealerHold,JTDACACU7R3012593,Sullivan Brothers Toyota,MA
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU7R3012612,West Herr Toyota of Orchard Park,NY
+2024,SE FWD,Guardian Gray,32675,0.0,32675.0,At dealer,False,DealerHold,JTDACACU7R3012626,Antwerpen's Toyota,MD
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU7R3012657,Toyota World of Clinton,NJ
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU7R3012710,Herb Chambers Toyota of Boston,MA
 2024,XSE FWD,Cutting Edge,35925,0.0,35925.0,Port to dealer,False,,JTDACACU7R3012819,Towne Toyota,NJ
@@ -960,9 +962,9 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,SE FWD,Wind Chill Pearl,32675,0.0,32675.0,Factory to port,False,,JTDACACU7R3016532,Toyota City,NY
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Factory to port,False,DealerHold,JTDACACU7R3016563,Toyota of Huntington Beach,CA
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Factory to port,False,,JTDACACU7R3016594,Bob Smith Toyota,CA
+2024,XSE FWD,Supersonic Red,35925,0.0,35925.0,Factory to port,False,DealerHold,JTDACACU7R3016627,Northway Toyota,NY
+2024,XSE FWD,Midnight Black Metallic,35925,0.0,35925.0,Factory to port,False,,JTDACACU7R3016644,Berlin City Toyota of Portland,ME
 2024,XSE Premium FWD,Guardian Gray,39370,3974.0,43344.0,Factory to port,False,,JTDACACU8R150AE78,Claremont Toyota,CA
-2024,XSE Premium FWD,Guardian Gray,39370,0.0,39370.0,Factory to port,False,,JTDACACU8R150BU24,Empire Toyota,NY
-2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Factory to port,False,,JTDACACU8R150CB82,"Bristol Toyota, Inc.",MA
 2024,XSE FWD,Cutting Edge,35925,0.0,35925.0,At dealer,False,DealerHold,JTDACACU8R3011937,Burdick Toyota,NY
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU8R3011954,355 Toyota,MD
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,At dealer,False,DealerHold,JTDACACU8R3011971,DCH Freehold Toyota,NJ
@@ -1071,6 +1073,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE Premium FWD,Cutting Edge,39370,0.0,39370.0,Factory to port,False,DealerHold,JTDACACU8R3016538,West Herr Toyota of Orchard Park,NY
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Factory to port,False,,JTDACACU8R3016555,Sunrise Toyota North,NY
 2024,SE FWD,Cutting Edge,32675,0.0,32675.0,Factory to port,False,DealerHold,JTDACACU8R3016572,Nucar Toyota of North Attleboro,MA
+2024,XSE Premium FWD,Reservoir Blue,39370,0.0,39370.0,Factory to port,False,,JTDACACU8R3016619,Charlie's Toyota,ME
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU9R3011896,Lexington Toyota,MA
 2024,SE FWD,Wind Chill Pearl,32675,0.0,32675.0,At dealer,False,DealerHold,JTDACACU9R3011929,Faith's Toyota Ford,VT
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,At dealer,False,DealerHold,JTDACACU9R3012076,Toyota of Wellesley,MA
@@ -1099,13 +1102,12 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Port to dealer,True,DealerHold,JTDACACU9R3013308,Rogers Toyota of Hermiston,OR
 2024,SE FWD,Wind Chill Pearl,32675,0.0,32675.0,Port to dealer,False,,JTDACACU9R3013373,Bayside Toyota,MD
 2024,XSE FWD,Supersonic Red,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU9R3013423,Newburgh Toyota,NY
-2024,SE FWD,Midnight Black Metallic,32675,0.0,32675.0,At dealer,False,,JTDACACU9R3013440,AutoNation Toyota Cerritos,CA
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Factory to port,False,DealerHold,JTDACACU9R3013583,Toyota of Watertown,MA
 2024,XSE Premium FWD,Guardian Gray,39370,0.0,39370.0,Port to dealer,True,Available,JTDACACU9R3013602,Middletown Toyota,CT
+2024,SE FWD,Cutting Edge,32675,0.0,32675.0,At dealer,False,DealerHold,JTDACACU9R3013664,Visalia Toyota,CA
 2024,XSE FWD,Midnight Black Metallic,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU9R3013714,Kendall Toyota of Bend,OR
 2024,SE FWD,Cutting Edge,32675,0.0,32675.0,Port to dealer,True,DealerHold,JTDACACU9R3013759,Durango Toyota,CO
 2024,SE FWD,Wind Chill Pearl,32675,399.0,33074.0,Factory to port,True,DealerHold,JTDACACU9R3013793,"Westboro Toyota, Inc.",MA
-2024,XSE Premium FWD,Supersonic Red,39370,0.0,39370.0,At dealer,True,DealerHold,JTDACACU9R3013812,Toyota of The Desert,CA
 2024,XSE Premium FWD,Cutting Edge,39370,1098.0,40468.0,Factory to port,True,DealerHold,JTDACACU9R3013843,Toyota of Cedar Park,TX
 2024,XSE FWD,Midnight Black Metallic,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACU9R3013874,Beach Cities Toyota Westminster,CA
 2024,XSE FWD,Reservoir Blue,35925,0.0,35925.0,Factory to port,True,Available,JTDACACU9R3013941,Toyota of Richardson,TX
@@ -1113,7 +1115,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Factory to port,False,,JTDACACU9R3014040,Langway Toyota of Newport,RI
 2024,SE FWD,Guardian Gray,32675,0.0,32675.0,Factory to port,True,DealerHold,JTDACACU9R3014085,DARCARS Toyota,MD
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Port to dealer,True,DealerHold,JTDACACU9R3014149,Kendall Toyota of Bend,OR
-2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,At dealer,False,Available,JTDACACU9R3014166,Toyota of Gladstone,OR
 2024,XSE FWD,Supersonic Red,35925,0.0,35925.0,Factory to port,False,Available,JTDACACU9R3014247,Herb Chambers Toyota of Boston,MA
 2024,XSE Premium FWD,Cutting Edge,39370,0.0,39370.0,Factory to port,False,DealerHold,JTDACACU9R3014278,Burien Toyota,WA
 2024,XSE FWD,Reservoir Blue,35925,599.0,36524.0,Factory to port,False,DealerHold,JTDACACU9R3014281,Hudson Toyota,NJ
@@ -1126,7 +1127,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Factory to port,True,DealerHold,JTDACACU9R3014572,Marina Del Rey Toyota,CA
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Factory to port,False,,JTDACACU9R3014605,AutoNation Toyota Arapahoe,CO
 2024,XSE Premium FWD,Reservoir Blue,39370,0.0,39370.0,Factory to port,False,,JTDACACU9R3014636,Plaza Toyota,NY
-2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Port to dealer,False,,JTDACACU9R3014653,Toyota of Gladstone,OR
+2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Port to dealer,False,Available,JTDACACU9R3014653,Toyota of Gladstone,OR
 2024,SE FWD,Guardian Gray,32675,0.0,32675.0,Factory to port,False,DealerHold,JTDACACU9R3014734,Toyota of Selma,CA
 2024,XSE FWD,Cutting Edge,35925,0.0,35925.0,Factory to port,False,,JTDACACU9R3014751,South Coast Toyota,CA
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Factory to port,False,,JTDACACU9R3014779,Charles Toyota,CT
@@ -1138,7 +1139,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,SE FWD,Wind Chill Pearl,32675,0.0,32675.0,Factory to port,False,DealerHold,JTDACACU9R3015009,Toyota Santa Monica,CA
 2024,XSE Premium FWD,Guardian Gray,39370,0.0,39370.0,Factory to port,False,Available,JTDACACU9R3015057,Capitol Toyota of Salem,OR
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Factory to port,False,,JTDACACU9R3015060,Central Maine Toyota,ME
-2024,XSE FWD,Supersonic Red,35925,0.0,35925.0,Port to dealer,False,,JTDACACU9R3015091,South Coast Toyota,CA
 2024,SE FWD,Guardian Gray,32675,0.0,32675.0,Factory to port,False,DealerHold,JTDACACU9R3015141,Heritage Toyota Catonsville,MD
 2024,XSE Premium FWD,Wind Chill Pearl,39370,3117.0,42487.0,Factory to port,True,DealerHold,JTDACACU9R3015169,Norm Reeves Toyota San Diego,CA
 2024,XSE FWD,Midnight Black Metallic,35925,0.0,35925.0,Factory to port,False,DealerHold,JTDACACU9R3015172,Royal Moore Toyota,OR
@@ -1191,9 +1191,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Factory to port,False,Available,JTDACACU9R3016533,Steet Toyota of Johnstown-Gloversville,NY
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Factory to port,False,,JTDACACU9R3016550,Toyota of Pasadena,CA
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Factory to port,False,,JTDACACU9R3016578,Toyota of Massapequa,NY
-2024,XSE Premium FWD,Midnight Black Metallic,39370,0.0,39370.0,Factory to port,True,DealerHold,JTDACACUXR150AE82,Capistrano Valley Toyota,CA
 2024,XSE FWD,Cutting Edge,35925,0.0,35925.0,At dealer,False,,JTDACACUXR3011809,Sunrise Toyota,NY
-2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,At dealer,False,,JTDACACUXR3011843,Penske Toyota,CA
 2024,XSE Premium FWD,Midnight Black Metallic,39370,0.0,39370.0,At dealer,False,,JTDACACUXR3011891,Atlantic Toyota,NY
 2024,SE FWD,Wind Chill Pearl,32675,0.0,32675.0,Port to dealer,False,DealerHold,JTDACACUXR3011910,Penn Toyota,NY
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Port to dealer,False,DealerHold,JTDACACUXR3011938,Lia Toyota of Rockland,NY
@@ -1202,7 +1200,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE Premium FWD,Cutting Edge,39370,0.0,39370.0,Port to dealer,False,DealerHold,JTDACACUXR3012197,Riverhead Toyota,NY
 2024,XSE Premium FWD,Cutting Edge,39370,0.0,39370.0,At dealer,False,,JTDACACUXR3012216,Star Toyota of Bayside,NY
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,At dealer,False,DealerHold,JTDACACUXR3012278,Pueblo Toyota,CO
-2024,XSE Premium FWD,Guardian Gray,39370,0.0,39370.0,At dealer,True,DealerHold,JTDACACUXR3012300,Precision Toyota of Tucson,AZ
 2024,XSE Premium FWD,Cutting Edge,39370,0.0,39370.0,At dealer,False,DealerHold,JTDACACUXR3012409,McGee Toyota of Epping,NH
 2024,XSE Premium FWD,Cutting Edge,39370,0.0,39370.0,Port to dealer,False,DealerHold,JTDACACUXR3012412,White River Toyota,VT
 2024,XSE FWD,Wind Chill Pearl,35925,0.0,35925.0,Port to dealer,True,DealerHold,JTDACACUXR3012507,Ira Toyota of Manchester,NH
@@ -1230,7 +1227,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Port to dealer,False,DealerHold,JTDACACUXR3013558,Manhattan Beach Toyota,CA
 2024,SE FWD,Guardian Gray,32675,3974.0,36649.0,Port to dealer,False,,JTDACACUXR3013561,Claremont Toyota,CA
 2024,XSE Premium FWD,Midnight Black Metallic,39370,0.0,39370.0,Factory to port,False,DealerHold,JTDACACUXR3013592,Westbury Toyota,NY
-2024,XSE FWD,Cutting Edge,35925,0.0,35925.0,At dealer,False,DealerHold,JTDACACUXR3013608,Toyota of Huntington Beach,CA
 2024,XSE Premium FWD,Guardian Gray,39370,0.0,39370.0,At dealer,False,DealerHold,JTDACACUXR3013642,Ron Tonkin Toyota,OR
 2024,XSE FWD,Reservoir Blue,35925,0.0,35925.0,Port to dealer,True,DealerHold,JTDACACUXR3013656,West Coast Toyota of Long Beach,CA
 2024,XSE Premium FWD,Cutting Edge,39370,3990.0,43360.0,Port to dealer,True,DealerHold,JTDACACUXR3013687,Toyota Carlsbad,CA
@@ -1240,14 +1236,12 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Factory to port,False,DealerHold,JTDACACUXR3013785,Jim Coleman Toyota,MD
 2024,XSE Premium FWD,Guardian Gray,39370,0.0,39370.0,Port to dealer,False,,JTDACACUXR3013852,AutoNation Toyota Arapahoe,CO
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Factory to port,False,,JTDACACUXR3013866,Westbrook Toyota,CT
-2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,At dealer,False,DealerHold,JTDACACUXR3013897,Stevens Creek Toyota,CA
 2024,SE FWD,Midnight Black Metallic,32675,0.0,32675.0,Port to dealer,False,,JTDACACUXR3013902,AutoNation Toyota Cerritos,CA
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Port to dealer,True,DealerHold,JTDACACUXR3013933,I-10 Toyota,CA
 2024,XSE FWD,Supersonic Red,35925,0.0,35925.0,Factory to port,False,DealerHold,JTDACACUXR3013995,Central Maine Toyota,ME
 2024,XSE FWD,Guardian Gray,35925,0.0,35925.0,Factory to port,False,DealerHold,JTDACACUXR3014046,Maguire Toyota,NY
 2024,XSE Premium FWD,Wind Chill Pearl,39370,0.0,39370.0,Port to dealer,False,DealerHold,JTDACACUXR3014077,Mountain States Toyota,CO
-2024,XSE FWD,Cutting Edge,35925,0.0,35925.0,At dealer,True,DealerHold,JTDACACUXR3014080,Toyota Chula Vista,CA
-2024,XSE FWD,Reservoir Blue,35925,0.0,35925.0,At dealer,True,,JTDACACUXR3014113,San Francisco Toyota,CA
+2024,XSE FWD,Reservoir Blue,35925,0.0,35925.0,At dealer,False,,JTDACACUXR3014113,San Francisco Toyota,CA
 2024,XSE FWD,Cutting Edge,35925,0.0,35925.0,Factory to port,False,,JTDACACUXR3014127,"Glen Motors, Inc.",NJ
 2024,XSE FWD,Reservoir Blue,35925,0.0,35925.0,Factory to port,False,Available,JTDACACUXR3014161,Star Toyota of Bayside,NY
 2024,XSE FWD,Wind Chill Pearl,35925,2190.0,38115.0,Factory to port,False,,JTDACACUXR3014175,Sansone Toyota,NJ
